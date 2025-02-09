@@ -50,14 +50,8 @@ Union Bank Of India,Financials,,0.98
 Life Insurance Corporation of India,Financials,,0.83
 Adani Total Gas Ltd.,Energy,,0.79
 Total,,,99.98
-Instrument,,,Assets&nbsp;%,,
-Tri-Party Repo (TREPS),,,0.27,,
-Net Current Asset,,,-0.23,,
-Total,,,0.04,,
-Grand Total,,,100,,
-
-Disclaimer -   All necessary precautions have been taken to avoid any error 
- lapse or insufficiency in preparing this report ; however ; no representations 
- or warranties are made (express or implied) as to the reliability 
- accuracy or completeness of such information. The Company cannot 
-be held liable for the contents of this report or for any action taken on its basis.
+Instrument,,,Assets%
+Tri-Party Repo (TREPS),,,0.27
+Net Current Asset,,,-0.23
+Total,,,0.04
+Grand Total,,,100

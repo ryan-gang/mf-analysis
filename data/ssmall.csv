@@ -64,15 +64,9 @@ Total,,,85.75
 Instrument,Asset Type,Rating,Assets&nbsp;%
 182 Days Treasury Bill - 05-Jun-2025,Treasury Bills,Sovereign,0.17
 Total,,,0.17
-Instrument,,,Assets&nbsp;%,,
-Tri-Party Repo (TREPS),,,12.35,,
-Other Derivaties,,,1.91,,
-Net Current Asset,,,-0.18,,
-Total,,,14.08,,
-Grand Total,,,100,,
-
-Disclaimer -   All necessary precautions have been taken to avoid any error 
- lapse or insufficiency in preparing this report ; however ; no representations 
- or warranties are made (express or implied) as to the reliability 
- accuracy or completeness of such information. The Company cannot 
-be held liable for the contents of this report or for any action taken on its basis.
+Instrument,,,Assets%
+Tri-Party Repo (TREPS),,,12.35
+Other Derivaties,,,1.91
+Net Current Asset,,,-0.18
+Total,,,14.08
+Grand Total,,,100

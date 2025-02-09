@@ -108,14 +108,8 @@ Union Bank of India (05-Dec-25),Certificate of Deposit,ICRA A1+,0.10
 Indian Bank (06-Nov-25),Certificate of Deposit,CRISIL A1+,0.05
 ICICI Bank Ltd. (25-Jul-25),Certificate of Deposit,ICRA A1+,0.03
 Total,,,9.96
-Instrument,,,Assets&nbsp;%,,
-Clearing Corporation Of India Ltd.,,,9.52,,
-Net Current Asset,,,-0.05,,
-Total,,,9.47,,
-Grand Total,,,100,,
-
-Disclaimer -   All necessary precautions have been taken to avoid any error 
- lapse or insufficiency in preparing this report ; however ; no representations 
- or warranties are made (express or implied) as to the reliability 
- accuracy or completeness of such information. The Company cannot 
-be held liable for the contents of this report or for any action taken on its basis.
+Instrument,,,Assets%
+Clearing Corporation Of India Ltd.,,,9.52
+Net Current Asset,,,-0.05
+Total,,,9.47
+Grand Total,,,100

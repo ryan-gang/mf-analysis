@@ -28,7 +28,7 @@ SEPARATOR = "-" * 79
 
 
 # Parses the holdings file and returns a list of Holding objects
-# Expects the holdings file to be from rupeevest.com
+# Expects the holdings file to be from rupee vest
 # The columns are expected to be:
 # Company,Sector,_, Weight
 # It also reads upto a line, where the first column is "Total"
