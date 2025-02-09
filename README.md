@@ -8,10 +8,10 @@ This repository provides tools for analyzing and visualizing intersections betwe
 
 The Venn diagram below shows the intersections between four mutual funds: nifty50, next50, ppflex, and tdigital.
 
-![Venn Diagram](./venn.png)
+![Venn Diagram](./assets/venn4.png)
 
 ### Intersection Weights
 
 The bar chart below illustrates the intersection weights between various mutual funds.
 
-![Intersection Weights](./intersections.png)
+![Intersection Weights](./assets/intersections.png)
