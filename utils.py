@@ -88,13 +88,13 @@ def plot_intersections(intersections: dict[str, float]):
     funds = list(intersections.keys())
     weights = list(intersections.values())
 
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(18, 6))
     plt.barh(funds, weights, color="skyblue")
     plt.xlabel("Intersection Weight (%)")
     plt.title("Intersection Weights Between Mutual Funds")
     plt.gca().invert_yaxis()  # Reverse the order for better readability
-    plt.show()
     plt.savefig("./assets/intersections.png")
+    plt.show()
 
 def plot_venn_diagram(
     mf_a: str,
